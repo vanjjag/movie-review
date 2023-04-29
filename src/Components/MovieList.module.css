@@ -1,0 +1,8 @@
+.movie-list ul {
+    
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    background-color: rgb(25, 25, 25);
+    padding-top: 5px;
+}

@@ -1,0 +1,29 @@
+.movie {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.movie img {
+  display: block;
+  margin: auto;
+  max-width: 150px;
+  max-height: 200px;
+  width: auto;
+  height: auto;
+  border-radius: 20px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: white;
+  box-shadow: 0px 0px 20px 3px rgba(256,256,256,.1)
+}
+
+.title {
+  color: white;
+  font-weight: normal;
+  font-size: 0.9em;
+  width: 0;
+  min-width: 100%;
+  margin-top: 5px;
+  text-align: center;
+}
